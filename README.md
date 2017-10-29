@@ -1,6 +1,6 @@
 ## 鲁世立
 
-## Welcome to   GitHub Pages
+## Welcome to  LSL's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gabried/gabried.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
